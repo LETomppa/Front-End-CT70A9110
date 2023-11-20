@@ -1,1 +1,2 @@
-# Front-End-CT70A9110
+# Software Development Skills Front-End, Online course
+# Tomi Vilpponen
